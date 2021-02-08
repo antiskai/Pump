@@ -19,8 +19,12 @@ class ViewController: UIViewController {
     }
     
     func development() {
+<<<<<<< HEAD
+        print("Bug fixed")
+=======
         print("Development in process")
         
+>>>>>>> dev
     }
 
 }
