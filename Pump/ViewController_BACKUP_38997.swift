@@ -15,11 +15,16 @@ class ViewController: UIViewController {
     }
 
     func dev() {
+<<<<<<< HEAD
         print("Some feature")
+=======
+        print("Some bug here")
+>>>>>>> bug
     }
     
     func development() {
-        print("Bug fixed")
+        print("Development in process")
+        
     }
 
 }
