@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     }
     
     func development() {
-        
+        print("Bug fixed")
     }
 
 }
