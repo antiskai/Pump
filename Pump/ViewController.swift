@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     }
 
     func dev() {
-        
+        print("Some bug here")
     }
     
     func development() {
