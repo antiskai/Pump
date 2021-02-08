@@ -17,6 +17,10 @@ class ViewController: UIViewController {
     func dev() {
         
     }
+    
+    func development() {
+        
+    }
 
 }
 
