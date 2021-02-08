@@ -15,7 +15,11 @@ class ViewController: UIViewController {
     }
 
     func dev() {
+<<<<<<< .merge_file_5GqfEH
+        print("Some feature")
+=======
         print("Buggy bug")
+>>>>>>> .merge_file_NCFERx
     }
     
     func development() {
