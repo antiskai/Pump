@@ -11,6 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print(#function)
         // Do any additional setup after loading the view.
     }
 
@@ -22,6 +23,7 @@ class ViewController: UIViewController {
         print("Development in process")
         
     }
+    
 
 }
 
